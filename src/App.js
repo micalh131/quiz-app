@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import FinalScreen from "./pages/FinalScreen";
 import Questions from "./pages/Questions";
 import Settings from "./pages/Settings";
